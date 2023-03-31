@@ -1,0 +1,12 @@
+alter table credit_card modify column billing_address varchar(30);
+insert into credit_card values(202201,'Soumilee Ghosh','225 st pauls ave','123456','377','2050.03.22','VISA');
+insert into credit_card values(202202,'Rohit Goswami','st michaels ave','123478','411','2040.03.22','VISA');
+insert into credit_card values(202203,'Niravra Kar','225 st pauls ave','123487','301','2050.03.22','VISA');
+insert into credit_card values(202204,'Sneha Dutta','Ridgewood St','123465','911','2050.05.01','mastercard');
+insert into credit_card values(202205,'Ranadeep Guha','Rampo St','123467','106','2050.10.22','mastercard');
+insert into credit_card values(202206,'Manjiri Bhosle','Vermella Crossing','123405','101','2050.03.22','VISA');
+insert into credit_card values(202207,'Vivek Verma','Vermella Crossing','123401','201','2050.03.22','VISA');
+insert into credit_card values(202208,'Tapadyuti Maity','Vermella Crossing','123402','202','2050.03.22','mastercard');
+insert into credit_card values(202209,'Anil Jhajharia','Vermella Crossing','123403','588','2050.03.22','VISA');
+insert into credit_card values(202210,'Sushmita Maity','Yorkshire St','123444','332','2050.03.22','mastercard');
+select * from credit_card;

@@ -1,0 +1,11 @@
+insert into transactions values (123,'500');
+insert into transactions values (234,'50');
+insert into transactions values (345,'750');
+insert into transactions values (456,'100');
+insert into transactions values (567,'250');
+insert into transactions values (678,'500');
+insert into transactions values (789,'400');
+insert into transactions values (890,'600');
+insert into transactions values (901,'850');
+insert into transactions values (012,'1000');
+select * from transactions;

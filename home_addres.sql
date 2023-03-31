@@ -1,0 +1,11 @@
+insert into home_addres values (1,'home','USA','NJ','St pauls ave','07306');
+insert into home_addres values (2,'home','USA','NJ','St Michaels ave','07306');
+insert into home_addres values (3,'home','USA','NJ','St pauls ave','07306');
+insert into home_addres values (4,'home','USA','MA','Ridegwood St','07345');
+insert into home_addres values (5,'home','USA','MA','Rampo St','07345');
+insert into home_addres values (6,'home','USA','NJ','Vermella Crossing','07310');
+insert into home_addres values (7,'home','USA','NJ','Vermella Crossing','07310');
+insert into home_addres values (8,'home','USA','NJ','Vermella Crossing','07310');
+insert into home_addres values (9,'home','USA','NJ','Vermella Crossing','07310');
+insert into home_addres values (10,'home','USA','MA','Yorkshire St','07350');
+select* from home_addres;
